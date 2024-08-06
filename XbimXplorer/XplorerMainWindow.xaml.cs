@@ -839,7 +839,7 @@ namespace XbimXplorer
 
 
 			// there's no going back; if it fails after this point the current file should be closed anyway
-			CloseAndDeleteTemporaryFiles ( ) ;
+			//CloseAndDeleteTemporaryFiles ( );
 
 
 			SetOpenedModelFileName

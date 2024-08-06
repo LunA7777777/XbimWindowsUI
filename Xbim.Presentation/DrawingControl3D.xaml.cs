@@ -1447,7 +1447,7 @@ namespace Xbim.Presentation
 			// - ModelPositions is emptied in here
 			if (DefaultLayerStyler == null)
 				DefaultLayerStyler = new SurfaceLayerStyler();
-			ClearGraphics(options);
+			//ClearGraphics ( options );
 
 			if (model == null)
 			{
