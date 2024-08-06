@@ -67,71 +67,71 @@
 	<ItemGroup>
 		<Reference Include="Microsoft.CSharp" />
 		<Reference Include="Microsoft.Extensions.Configuration">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.Configuration.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.Configuration.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.Extensions.Configuration.Abstractions">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.Extensions.Configuration.Binder">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.Extensions.Logging">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.Logging.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.Logging.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.Extensions.Logging.Abstractions">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.Extensions.Options">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.Options.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.Options.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.Extensions.Primitives">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Microsoft.Extensions.Primitives.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Microsoft.Extensions.Primitives.dll</HintPath>
 		</Reference>
 		<Reference Include="PresentationCore" />
 		<Reference Include="PresentationFramework" />
 		<Reference Include="System.Buffers">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\System.Buffers.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\System.Buffers.dll</HintPath>
 		</Reference>
 		<Reference Include="System.Configuration" />
 		<Reference Include="System.Data.DataSetExtensions" />
 		<Reference Include="System.Memory">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\System.Memory.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\System.Memory.dll</HintPath>
 		</Reference>
 		<Reference Include="System.Numerics.Vectors">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\System.Numerics.Vectors.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\System.Numerics.Vectors.dll</HintPath>
 		</Reference>
 		<Reference Include="System.Runtime.CompilerServices.Unsafe">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
 		</Reference>
 		<Reference Include="System.Windows.Forms" />
 		<Reference Include="System.Xaml" />
 		<Reference Include="WindowsBase" />
 		<Reference Include="Xbim.Common">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.Common.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.Common.dll</HintPath>
 		</Reference>
 		<Reference Include="Xbim.Geometry.Engine.Interop">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.Geometry.Engine.Interop.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.Geometry.Engine.Interop.dll</HintPath>
 		</Reference>
 		<Reference Include="Xbim.Ifc">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.Ifc.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.Ifc.dll</HintPath>
 		</Reference>
 		<Reference Include="Xbim.Ifc2x3">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.Ifc2x3.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.Ifc2x3.dll</HintPath>
 		</Reference>
 		<Reference Include="Xbim.Ifc4">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.Ifc4.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.Ifc4.dll</HintPath>
 		</Reference>
 		<Reference Include="Xbim.IO.MemoryModel">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.IO.MemoryModel.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.IO.MemoryModel.dll</HintPath>
 		</Reference>
 		<Reference Include="Xbim.ModelGeometry.Scene">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.ModelGeometry.Scene.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.ModelGeometry.Scene.dll</HintPath>
 		</Reference>
 		<Reference Include="Xbim.Tessellator">
-		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Debug\net472\Xbim.Tessellator.dll</HintPath>
+		  <HintPath>..\..\XbimGeometry\Xbim.ModelGeometry.Scene\bin\Release\net472\Xbim.Tessellator.dll</HintPath>
 		</Reference>
 	</ItemGroup>
 	<ItemGroup>
